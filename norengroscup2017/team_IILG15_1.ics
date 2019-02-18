@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//Kalendertest//NO
 NAME:Norengros Cup 2017 Innstranden G15-1 (G15)
 X-WR-CALNAME:Norengros Cup 2017 Innstranden G15-1 (G15)
-DESCRIPTION:Kamper og resultater for Innstranden G15-1 (G15), Norengros Cup 2017
-X-WR-CALDESC:Kamper og resultater for Innstranden G15-1 (G15), Norengros Cup 2017
+DESCRIPTION:Kamper og resultater for Innstranden G15-1 (G15) Norengros Cup 2017
+X-WR-CALDESC:Kamper og resultater for Innstranden G15-1 (G15) Norengros Cup 2017
 REFRESH-INTERVAL;VALUE=DURATION:PT15M
 X-PUBLISHED-TTL:PT15M
 CALSCALE:GREGORIAN
