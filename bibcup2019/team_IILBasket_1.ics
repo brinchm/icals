@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//Kalendertest//NO
 NAME:BIB Cup 2019 Innstranda Basketball (Basketball Herre)
 X-WR-CALNAME:BIB Cup 2019 Innstranda Basketball (Basketball Herre)
-DESCRIPTION:Kamper og resultater for Innstranda Basketball (Basketball Herre), BIB Cup 2019
-X-WR-CALDESC:Kamper og resultater for Innstranda Basketball (Basketball Herre), BIB Cup 2019
+DESCRIPTION:Kamper og resultater for Innstranda Basketball (Basketball Herre) BIB Cup 2019
+X-WR-CALDESC:Kamper og resultater for Innstranda Basketball (Basketball Herre) BIB Cup 2019
 REFRESH-INTERVAL;VALUE=DURATION:PT15M
 X-PUBLISHED-TTL:PT15M
 CALSCALE:GREGORIAN
